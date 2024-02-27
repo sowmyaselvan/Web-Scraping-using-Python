@@ -1,7 +1,7 @@
 # Web-Scraping-using-Python
 Web Scraping using Python Beautifulsoup
 
-In this project I have scrapped IMBD site data to filter out Movie Name, Year, Metascore, Runtime, Votes, IMDB Rating, Director name and Genre for all the movies realeased in 2022 from Jan 1 - Dec 31.
+In this project I have scrapped Yahoo finance data and IMBD site data to filter out Movie Name, Year, Metascore, Runtime, Votes, IMDB Rating, Director name and Genre for all the movies realeased in 2022 from Jan 1 - Dec 31.
 
 Cleaning:
 
